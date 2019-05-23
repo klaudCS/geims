@@ -1,0 +1,24 @@
+.header {
+background-color: #8A2BE2;
+height: 10%;
+width: 100%;
+}
+
+.main {
+    background-color: 	#F5F5DC;
+    float: left;
+    height: 90%;
+    width: 50%;
+}
+
+.slidebar {
+    background-color:	#B8860B;
+    float: left;
+    height: 90%;
+    width: 50%;
+}
+
+.container {
+    display: block;
+    margin: 0%;
+}
